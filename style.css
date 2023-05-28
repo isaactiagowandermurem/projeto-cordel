@@ -88,7 +88,7 @@ header a:hover{
    top: 20%;
     color: white;
     text-shadow: 1px 1px 0px black;
-    width: 400px;
+    max-width: 400px;
 }
 
  #contenier2{
@@ -111,7 +111,7 @@ header a:hover{
    left: 2%;
     color: white;
     text-shadow: 1px 1px 0px black;
-    width: 400px;
+    max-width: 400px;
 
 }
 
